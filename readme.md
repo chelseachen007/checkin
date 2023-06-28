@@ -18,3 +18,7 @@ GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
 [glados]: https://github.com/glados-network/GLaDOS
 [pushplus]: https://www.pushplus.plus/
+
+
+## 
+[阿里云签到](https://github.com/ImYrS/aliyun-auto-signin/blob/main/How-To-Use-Action.md)
